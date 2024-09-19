@@ -1,0 +1,215 @@
+{
+  "loans": [
+    {
+      "name": "HSBC Amanah Personal Financing-i",
+      "interest_rate": {
+        "12_months": "4.99% p.a.",
+        "24_months": "5.99% p.a.",
+        "36_to_48_months": "9.99% p.a.",
+        "60_to_84_months": "11.18% p.a.",
+        "60_to_84_months_high": "16.68% p.a."
+      },
+      "interest_rate_range": {
+        "min": "4.99% p.a.",
+        "max": "16.68% p.a."
+      },
+      "loan_financing_amount": "RM5,000 - RM300,000",
+      "loan_financing_period": "12 - 84 months",
+      "your_income": "RM36,000",
+      "monthly_repayment": "Variable based on loan period",
+      "can_government_glc_apply": "Yes",
+      "type": "Islamic",
+      "bank": "HSBC Amanah",
+      "fees_and_charges": {
+        "interest_rate_apr": "As low as 4.99% p.a., depending on loan amount and period",
+        "processing_fee": "None",
+        "stamp_duty": "0.5% of the whole amount",
+        "early_termination_fee": "None",
+        "late_penalty_fee": "1% from current outstanding amount"
+      },
+      "requirements": {
+        "minimum_annual_income": "RM36,000",
+        "minimum_age": "21 to 60 years old",
+        "who_can_apply": "Malaysians"
+      }
+    },
+    {
+      "name": "Bank Islam Personal Financing-i Non-Package",
+      "interest_rate": {
+        "12_months": "4.5% p.a."
+      },
+      "interest_rate_range": {
+        "min": "4.5% p.a.",
+        "max": "4.5% p.a."
+      },
+      "loan_financing_amount": "RM10,000 - RM300,000",
+      "loan_financing_period": "1 - 10 years",
+      "your_income": "RM36,000",
+      "monthly_repayment": "RM454.17",
+      "can_government_glc_apply": "Yes",
+      "type": "Islamic",
+      "bank": "Bank Islam",
+      "fees_and_charges": {
+        "interest_rate_apr": "As low as 4.5% p.a., depending on loan amount and period",
+        "processing_fee": "None",
+        "stamp_duty": "0.5% of the whole amount",
+        "early_termination_fee": "None",
+        "late_penalty_fee": "1% from current outstanding amount"
+      },
+      "requirements": {
+        "minimum_annual_income": "RM36,000",
+        "minimum_age": "21 to 60 years old",
+        "who_can_apply": "Malaysians"
+      }
+    },
+    {
+      "name": "BSN MyRinggit Executive-1",
+      "interest_rate": {
+        "12_months": "6.00% p.a."
+      },
+      "interest_rate_range": {
+        "min": "6.00% p.a.",
+        "max": "6.00% p.a."
+      },
+      "loan_financing_amount": "RM5,000 - RM200,000",
+      "loan_financing_period": "1 - 10 years",
+      "your_income": "RM36,000",
+      "monthly_repayment": "RM466.67",
+      "can_government_glc_apply": "Yes",
+      "type": "Conventional",
+      "bank": "Bank Simpanan Nasional (BSN)",
+      "fees_and_charges": {
+        "interest_rate_apr": "As low as 6.00% p.a., depending on loan amount and period",
+        "processing_fee": "None",
+        "stamp_duty": "0.5% of the whole amount",
+        "early_termination_fee": "None",
+        "late_penalty_fee": "1% from current outstanding amount"
+      },
+      "requirements": {
+        "minimum_annual_income": "RM36,000",
+        "minimum_age": "21 to 60 years old",
+        "who_can_apply": "Malaysians"
+      }
+    },
+    {
+      "name": "Maybank Islamic Personal Financing-i",
+      "interest_rate": {
+        "12_months": "6.5% p.a."
+      },
+      "interest_rate_range": {
+        "min": "6.5% p.a.",
+        "max": "6.5% p.a."
+      },
+      "loan_financing_amount": "RM5,000 - RM100,000",
+      "loan_financing_period": "2 - 6 years",
+      "your_income": "RM36,000",
+      "monthly_repayment": "RM483.33",
+      "can_government_glc_apply": "Yes",
+      "type": "Islamic",
+      "bank": "Maybank Islamic",
+      "fees_and_charges": {
+        "interest_rate_apr": "As low as 6.5% p.a., depending on loan amount and period",
+        "processing_fee": "None",
+        "stamp_duty": "0.5% of the whole amount",
+        "early_termination_fee": "None",
+        "late_penalty_fee": "1% from current outstanding amount"
+      },
+      "requirements": {
+        "minimum_annual_income": "RM36,000",
+        "minimum_age": "21 to 60 years old",
+        "who_can_apply": "Malaysians"
+      }
+    },
+    {
+      "name": "Standard Chartered CashOne",
+      "interest_rate": {
+        "12_months": "7.8% p.a."
+      },
+      "interest_rate_range": {
+        "min": "7.8% p.a.",
+        "max": "7.8% p.a."
+      },
+      "loan_financing_amount": "RM5,000 - RM150,000",
+      "loan_financing_period": "1 - 5 years",
+      "your_income": "RM36,000",
+      "monthly_repayment": "RM481.67",
+      "can_government_glc_apply": "No",
+      "type": "Conventional",
+      "bank": "Standard Chartered",
+      "fees_and_charges": {
+        "interest_rate_apr": "As low as 7.8% p.a., depending on loan amount and period",
+        "processing_fee": "None",
+        "stamp_duty": "0.5% of the whole amount",
+        "early_termination_fee": "None",
+        "late_penalty_fee": "1% from current outstanding amount"
+      },
+      "requirements": {
+        "minimum_annual_income": "RM36,000",
+        "minimum_age": "21 to 60 years old",
+        "who_can_apply": "Malaysians"
+      }
+    },
+    {
+      "name": "RHB Personal Financing-i",
+      "interest_rate": {
+        "12_months": "8.18% p.a.",
+        "24_months": "8.18% p.a.",
+        "36_to_60_months": "12.38% p.a."
+      },
+      "interest_rate_range": {
+        "min": "8.18% p.a.",
+        "max": "12.38% p.a."
+      },
+      "loan_financing_amount": "RM2,000 - RM150,000",
+      "loan_financing_period": "12 - 60 months",
+      "your_income": "RM24,000",
+      "monthly_repayment": "Variable based on loan period",
+      "can_government_glc_apply": "Yes",
+      "type": "Islamic",
+      "bank": "RHB Islamic",
+      "fees_and_charges": {
+        "interest_rate_apr": "As low as 8.18% p.a., depending on loan amount and period",
+        "processing_fee": "None",
+        "stamp_duty": "0.5% of the whole amount",
+        "early_termination_fee": "None",
+        "late_penalty_fee": "1% from current outstanding amount"
+      },
+      "requirements": {
+        "minimum_annual_income": "RM24,000",
+        "minimum_age": "21 to 60 years old",
+        "who_can_apply": "Malaysians"
+      }
+    },
+    {
+      "name": "CIMB Cash Plus Personal Loan",
+      "interest_rate": {
+        "12_months": "6.88% p.a.",
+        "24_months": "6.88% p.a.",
+        "36_to_60_months": "7.88% p.a."
+      },
+      "interest_rate_range": {
+        "min": "6.88% p.a.",
+        "max": "7.88% p.a."
+      },
+      "loan_financing_amount": "RM2,000 - RM100,000",
+      "loan_financing_period": "12 - 60 months",
+      "your_income": "RM24,000",
+      "monthly_repayment": "Variable based on loan period",
+      "can_government_glc_apply": "Yes",
+      "type": "Conventional",
+      "bank": "CIMB",
+      "fees_and_charges": {
+        "interest_rate_apr": "As low as 6.88% p.a., depending on loan amount and period",
+        "processing_fee": "None",
+        "stamp_duty": "0.5% of the whole amount",
+        "early_termination_fee": "None",
+        "late_penalty_fee": "1% from current outstanding amount"
+      },
+      "requirements": {
+        "minimum_annual_income": "RM24,000",
+        "minimum_age": "21 to 60 years old",
+        "who_can_apply": "Malaysians"
+      }
+    }
+  ]
+}

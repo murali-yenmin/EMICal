@@ -14,6 +14,12 @@ code {
 .m-0{
   margin: 0 !important;
 } 
+.mt-1{
+ margin-top: 1rem;
+}
+.mb-1{
+  margin-bottom: 1rem;
+ }
 .emiCal{
   display: flex;
   align-items: center;

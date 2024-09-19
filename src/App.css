@@ -1,38 +1,126 @@
-.App {
+.container {
+  max-width: 1360px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+h2,
+p {
+  margin: 0;
+}
+
+.bankTable {
+  margin-top: 30px;
+}
+
+/* src/styles/TableStyles.css */
+.table-container {
+  border: 1px solid black;
+  /* Border around the entire table */
+  border-collapse: collapse;
+  /* Collapses borders to create a single border line */
+  width: 100%;
+  /* Optional: makes the table full width */
+}
+
+.table-container th,
+.table-container td {
+  border: 1px solid black;
+  /* Border for table cells */
+  padding: 10px;
+  /* Padding for table cells */
+}
+
+.table-container th {
+  background-color: #f4f4f4;
+  /* Optional: background color for table headers */
+}
+
+.bankTable table {
+  margin: 30px 0;
+} 
+
+.bankInfo .title{
+  text-align: center;
+  margin: 10px 0;
+}
+.bankBio {
+  background: hsl(217, 25%, 94%);
+  border-radius: 8px;
+  padding: 24px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+  
+}
+
+.bankBio div {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.bankBio div h5 {
+  font-size: 14px;
+  font-weight: 400;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.bankBio div  p{
+  font-weight: 600;
+  font-size: 18px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.card{
+  padding: 20px;
+  border-radius: 5px;
+ border: 1px solid grey;
+}
+
+.backInterset table {
+  margin-top: 10px;
+}
+
+.cal-input {
+  margin-top: 4px;
+  display: inline-block;
+  padding: 0 10px;
+  border: 1px solid #e1e1e1;
+  border-radius: 5px;
+  background-color: #f7f9fc;
+}
+
+.cal-input input {
+  border: none;
+  outline: none;
+  font-size: 16px; 
+  margin: 0;
+  width: 100px; 
+  background-color: #f7f9fc; 
+}
+
+.calculator .filedSection{
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.error{
+  color:red;
+}
+
+.dropDown{
+  max-width: 180px;
+  background:#f7f9fc; 
+}
+
+[class$='-control'] {
+  background-color: transparent !important ;
+}
+
+.emiValue{
+  text-align: center;
+}
+.noCal{
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  height: 100%;
 }
